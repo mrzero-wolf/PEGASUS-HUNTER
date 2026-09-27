@@ -1,0 +1,5 @@
+server/c2.db
+server/uploads/
+__pycache__/
+*.pyc
+.cache/
